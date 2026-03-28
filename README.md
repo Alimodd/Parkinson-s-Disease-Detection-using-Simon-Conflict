@@ -148,15 +148,21 @@ The following figures are available in the `assets/` directory:
 
 ## Citation
 
+This work has been **published on IEEE Xplore**:
+
+> Pouya Taghipour Langrodi, Amirsadra Khodadadi, Ali Sadat Modaresi, Mohammad Ahadzadeh, Mostafa Rostami, and Sadegh Madadi,
+> *"Parkinson’s Disease Classification Using EEG and a Hybrid EEGNet–LSTM Architecture"*, 2025.
+> 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11392473)
+
 If you use this work, please cite:
 
 ```bibtex
 @article{Taghipour2025,
-  author = {Pouya Taghipour Langrodi, Amirsadra Khodadadi, Ali Sadat Modaresi, Mohammad Ahadzadeh, Mostafa Rostami, and Sadegh Madadi},
-  title = {Parkinson’s Disease Classification Using EEG and a Hybrid EEGNet–LSTM Architecture},
-  year = {2025},
-  institution = {Amirkabir University of Technology, BioMechatronic Lab},
-  url = {https://github.com/Pouya-Ta/Parkinson-s-Disease-Detection-using-Simon-Conflict}
+  author    = {Pouya Taghipour Langrodi and Amirsadra Khodadadi and Ali Sadat Modaresi and Mohammad Ahadzadeh and Mostafa Rostami and Sadegh Madadi},
+  title     = {Parkinson’s Disease Classification Using EEG and a Hybrid EEGNet--LSTM Architecture},
+  year      = {2025},
+  publisher = {IEEE},
+  url       = {https://ieeexplore.ieee.org/abstract/document/11392473}
 }
 ```
 
